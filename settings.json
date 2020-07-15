@@ -1,0 +1,6 @@
+{
+    "python.envFile": ".env"  ,
+    "python.autoComplete.extraPaths": ["E:\\Sentiment\\sentienv\\Lib\\site-packages\\pymongo"],
+    // "python.autoComplete.extraPaths": ["E:\\Sentiment\\sentiment_analysis"],
+    "python.pythonPath": "C:\\Users\\tejas\\Anaconda3\\python.exe"
+}
